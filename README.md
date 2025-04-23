@@ -158,4 +158,4 @@ Operation completed ✅✅✅
 
 ## 🧑‍💻 Author
 
-This script is created by me, [JacceyCode](`https://github.com/JacceyCode`). Feel free to contribute or modify!
+This script is created by me, [Jacob Adebayo](https://github.com/JacceyCode). Feel free to contribute or modify!
