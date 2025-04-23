@@ -134,7 +134,7 @@ Operation completed ✅✅✅
 
 - Click on `Generate new token` button.
 
-- On the token page, enter the `Token name`, `Description`, choose `Expiration period`.
+- On the token page, enter the `Token name`, `Description`, choose `Expiration` period.
 
   ![Image_Avatar](images/github5.png)
 
@@ -142,7 +142,7 @@ Operation completed ✅✅✅
 
   ![Image_Avatar](images/github6.png)
 
-- Under Permissions, click on `Repository permissions` and in the dropdwon, find `Administration` and click on the dropdown button by the right to change permission to `Read and write`.
+- Under Permissions, click on `Repository permissions` and in the dropdown, find `Administration` and click on the dropdown button by the right to change permission to `Read and write`.
 
   ![Image_Avatar](images/github7.png)
 
