@@ -3,9 +3,9 @@
 # VARIABLES
 githubUsername=$1
 repoName=$2
-githubToken=$3
-description=$4
-visibility=$5
+description=$3
+visibility=$4
+githubToken=$5
 
 # Confirm variables are defined
 while [ -z "$githubUsername" ] || [ -z "$repoName" ] || [ -z "$githubToken" ] || [ -z "$description" ] || [ -z "$visibility" ]
