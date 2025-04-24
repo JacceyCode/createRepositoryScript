@@ -52,7 +52,7 @@ This will create a copy of this repository directory on your local machine, make
 
 ### 📌 Usage from Terminal
 
-Open your terminal and navigate into the directory where the script is located.
+Open your terminal and navigate into the directory where the script is located, activate `bash` and run:
 
 ```bash
 ./createRepository.sh <githubUsername> <repoName> <description> <visibility> <githubToken>
@@ -72,7 +72,7 @@ Open your terminal and navigate into the directory where the script is located.
 
 ### 🔐 Example (Interactive mode)
 
-If you run the script without any arguments:
+If you run the script without any arguments, activate `bash` and run:
 
 ```bash
 ./createRepository.sh
